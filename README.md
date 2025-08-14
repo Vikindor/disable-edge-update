@@ -78,4 +78,4 @@ The script will:
 
 ## License
 
-MIT (or your preferred license).
+MIT
