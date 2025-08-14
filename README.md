@@ -6,6 +6,10 @@ This toolkit provides two portable scripts for managing Microsoft Edge auto-upda
 
 ---
 
+**Requirements:** Windows 10/11, PowerShell 5.1+ или PowerShell 7+, Admin rights.
+
+---
+
 ## Files
 
 | File | Description |
