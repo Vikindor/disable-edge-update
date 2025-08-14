@@ -1,6 +1,6 @@
-# disable-edge-update
+# Disable Microsoft Edge auto-updates
 
-**Description:** Scripts to disable or restore Microsoft Edge auto-updates (including WebView2 runtime).
+**Description:** Scripts to disable (or restore) Microsoft Edge auto-updates, including WebView2 runtime.
 
 This toolkit provides two portable scripts for managing Microsoft Edge auto-update services, scheduled tasks, and folders — **disable** (to block automatic updates) and **restore** (to re-enable them if needed). Designed for setups where Edge isn’t used but the WebView2 runtime is required by other apps, or where full control over Edge updates is desired.
 
